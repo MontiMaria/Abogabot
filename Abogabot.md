@@ -34,3 +34,13 @@ A continuación se muestra el wireframe de la app, la cual fue realizada en la p
 
 ## **4.2 Vista administrador**
 ![image](https://user-images.githubusercontent.com/114372132/195166012-bcd073c9-64ab-4349-b9bc-a22ddc1d8c91.png)
+
+
+## **5. Diseño final**
+Se presenta el diseño propuesto realizado en Figma (www.figma.com)
+
+## **5.1 Vista usuario**
+![Untitled](https://user-images.githubusercontent.com/114372132/195459470-0231b3e3-1e55-4dbc-87f6-1a801c4fffd2.png)
+
+## **5.2 Vista administrador**
+![Untitled (1)](https://user-images.githubusercontent.com/114372132/195459528-6a8b004d-81dd-48a0-83c1-dab140413935.png)
